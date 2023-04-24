@@ -12,4 +12,5 @@ los datos del proyecto vienen de la competicion: "Zillow Prize: Zillow´s Home V
 
 
 ## Videos
-Video entrega 2: 
+Video entrega 2: https://youtu.be/-u6ch5oSda0
+
